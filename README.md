@@ -16,3 +16,5 @@ H. Peng, A. Nematzadeh, D.M. Romero, E. Ferrara. Network Modularity Controls the
 * Run scripts in the folder `speed_fix_size` to produce Fig. 5.
 
 * The command I used to run all hpc scirpts is: `sbatch xyz.slurm`. Each phase diagram utilizes 51 computer nodes to simultaneously generate one slice of the data.
+
+* I didn't share all the pickle files (simulation data) as each of them is about the size of 500 MB.
