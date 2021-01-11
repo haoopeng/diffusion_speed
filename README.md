@@ -3,7 +3,7 @@
 This repository hosts the code to reproduce results of the following paper:
   
 H. Peng, A. Nematzadeh, D.M. Romero, E. Ferrara. </br>
-Network Modularity Controls the Speed of Information Diffusion. </br>
+[Network Modularity Controls the Speed of Information Diffusion.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.052316) </br>
 Physical Review E 102, 052316 (2020).
 
 
