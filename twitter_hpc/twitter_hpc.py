@@ -32,6 +32,8 @@ G = G.to_undirected(reciprocal=False)
 
 Gcc = max(nx.connected_components(G), key=len)
 Gcc = G.subgraph(Gcc).copy()
+
+# please generate this data on your own. It's fast.
 # part = community.best_partition(Gcc, randomize=False)
 
 with open(Data_Root+'networks/partition_%s.pickle'%net_name, 'rb') as file:
